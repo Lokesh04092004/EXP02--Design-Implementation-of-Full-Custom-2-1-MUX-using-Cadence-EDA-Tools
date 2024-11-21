@@ -8,7 +8,8 @@ Tools Required:
 
 Circuit Diagram:
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/670e0ec5-67d7-4032-965e-c606ce26b416)
+
 
 
 
