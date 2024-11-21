@@ -8,7 +8,7 @@ Tools Required:
 
 Circuit Diagram:
 
-![WhatsApp Image 2024-11-17 at 4 00 55 PM](https://github.com/user-attachments/assets/7ebd3eb9-1764-48e2-801b-fe05be8d9d96)
+![Uploading image.png…]()
 
 
 
